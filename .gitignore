@@ -1,0 +1,5 @@
+*.db
+out/
+build/
+.idea/
+.gradle/
